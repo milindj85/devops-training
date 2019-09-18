@@ -1,1 +1,7 @@
 
+URI https://github.com/milindj85/devops-training.git Credential
+Password	K1 Milind git cred
+I/O
+Observe	Phabricator will observe changes to this URI and copy them.
+Display
+Visible	This URI will be shown to users as a clone URI.
