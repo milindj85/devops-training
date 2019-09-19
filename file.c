@@ -9,7 +9,7 @@ int main()
    fptr = (fopen("C:\\student.txt", "w"));
    if(fptr == NULL)
    {
-       printf("Error!");
+       printf("Error in file pointer!");
        exit(1);
    }
    for(i = 0; i < num; ++i)
